@@ -1,0 +1,13 @@
+div {
+    width: 150px;
+    height: 70px;
+    border: 1px solid black;
+}
+
+.active {
+    background-color: greenyellow;
+}
+
+div:hover {
+    cursor: pointer;
+}
